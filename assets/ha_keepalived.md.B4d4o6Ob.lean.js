@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t}from"./chunks/framework.DdXzrN3b.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"ha/keepalived.md","filePath":"ha/keepalived.md","lastUpdated":1723126796000}'),r={name:"ha/keepalived.md"};function o(s,d,p,c,n,i){return t(),a("div")}const m=e(r,[["render",o]]);export{_ as __pageData,m as default};

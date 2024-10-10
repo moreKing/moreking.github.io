@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t}from"./chunks/framework.DdXzrN3b.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"ha/haproxy.md","filePath":"ha/haproxy.md","lastUpdated":1723126796000}'),r={name:"ha/haproxy.md"};function o(s,p,c,n,d,h){return t(),e("div")}const m=a(r,[["render",o]]);export{i as __pageData,m as default};
