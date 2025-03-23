@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.DcWFUpHS.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"ha/drbd.md","filePath":"ha/drbd.md","lastUpdated":1723126796000}'),r={name:"ha/drbd.md"};function d(o,s,c,n,p,_){return a(),t("div")}const f=e(r,[["render",d]]);export{m as __pageData,f as default};
